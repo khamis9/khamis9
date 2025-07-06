@@ -13,7 +13,7 @@ Later, I moved into web development, where I build complete apps using PHP (OOP)
 
 On the frontend, I stick to clean HTML, modular CSS, and vanilla JS (with Axios for API calls ⚡). No jQuery, no Bootstrap — just clarity and control.
 
-I also build hardware projects with Arduino, ESP32, and Raspberry Pi 🛠️ — like a fire-extinguishing robot with mobility, sensors, and Bluetooth control. I love seeing code move something in the real world 🔥🤖.
+I also build hardware projects with Arduino 🛠️ — like a fire-extinguishing robot with mobility, sensors, and Bluetooth control. I love seeing code move something in the real world 🔥🤖.
 
 Along the way, I’ve made 2D games in Unity 🎮, developed puzzle logic (like Minesweeper 🧠), and stayed curious across every layer of tech.
 
