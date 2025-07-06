@@ -9,7 +9,7 @@ Hey there! I’m Hussein — a Full Stack Developer with a strong foundation in 
 
 I started out diving deep into Java, building things like tokenizers, type checkers, Monte Carlo simulations 🧪, and even simulating the IAS Machine with register-level logic 💾. These projects shaped how I think about memory, performance, and precision.
 
-Later, I moved into web development, where I build complete apps using PHP (OOP) and MySQL — writing clean, secure RESTful APIs 🔁. I design my databases carefully, write migrations, seeds, and keep my architecture lightweight but structured (hello, MVC!).
+Later, I moved into web development, where I build complete apps using PHP (OOP) and MySQL — writing clean, secure APIs 🔁. I design my databases carefully, write migrations, seeds, and keep my architecture lightweight but structured (hello, MVC!).
 
 On the frontend, I stick to clean HTML, modular CSS, and vanilla JS (with Axios for API calls ⚡). No jQuery, no Bootstrap — just clarity and control.
 
