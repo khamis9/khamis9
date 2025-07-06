@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Ctrl%2BC%2C+Ctrl%2BV+Specialist+(Shh...);Error+404%3A+Bug+Not+Found+(Yet)" alt="Typing SVG" /></a><br>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hussein Khamis
+Hi 👋 My name is Hussein Khamis
 ======================================================================================================================================
 
 Full Stack Developer | Java-Fueled Thinker | Web & System Architect
