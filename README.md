@@ -23,9 +23,6 @@ Whether it's backend logic, frontend interactivity, or low-level hardware — I 
 * ✉️  You can contact me at [khamishussein2003@gmail.com](mailto:khamishussein2003@gmail.com)
 * 🧠  I'm currently diving deeper into full-stack architecture.
 
-<a href="https://www.github.com/khamis9" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/khamis9?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-
 ### Skills
 
 
