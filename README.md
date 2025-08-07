@@ -5,19 +5,19 @@ Hi 👋 My name is Hussein Khamis
 Full Stack Developer | Java-Fueled Thinker | Web & System Architect
 -------------------------------------------------------------------
 
-Hey there! I’m Hussein — a Full Stack Developer with a strong foundation in Java and a love for building from the ground up.
+Hey there! I’m Hussein - a Full Stack Developer with a strong foundation in Java and a love for building from the ground up.
 
 I started out diving deep into Java, building things like tokenizers, type checkers, Monte Carlo simulations 🧪, and even simulating the IAS Machine with register-level logic 💾. These projects shaped how I think about memory, performance, and precision.
 
-Later, I moved into web development, where I build complete apps using PHP (OOP) and MySQL — writing clean, secure APIs 🔁. I design my databases carefully, write migrations, seeds, and keep my architecture lightweight but structured (hello, MVC!).
+Later, I moved into web development, where I build complete apps using PHP (OOP) and MySQL - writing clean, secure APIs 🔁. I design my databases carefully, write migrations, seeds, and keep my architecture lightweight but structured (hello, MVC!).
 
-On the frontend, I stick to clean HTML, modular CSS, and vanilla JS (with Axios for API calls ⚡). No jQuery, no Bootstrap — just clarity and control.
+On the frontend, I stick to clean HTML, modular CSS, and vanilla JS (with Axios for API calls ⚡). No jQuery, no Bootstrap - just clarity and control.
 
-I also build hardware projects with Arduino 🛠️ — like a fire-extinguishing robot with mobility, sensors, and Bluetooth control. I love seeing code move something in the real world 🔥🤖.
+I also build hardware projects with Arduino 🛠️ - like a fire-extinguishing robot with mobility, sensors, and Bluetooth control. I love seeing code move something in the real world 🔥🤖.
 
 Along the way, I’ve made 2D games in Unity 🎮, developed puzzle logic (like Minesweeper 🧠), and stayed curious across every layer of tech.
 
-Whether it's backend logic, frontend interactivity, or low-level hardware — I bring the same mindset: understand it deeply, build it clearly, and make it real.
+Whether it's backend logic, frontend interactivity, or low-level hardware - I bring the same mindset: understand it deeply, build it clearly, and make it real.
 
 * 🌍  I'm based in Beirut, Lebanon 🇱🇧
 * ✉️  You can contact me at [khamishussein2003@gmail.com](mailto:khamishussein2003@gmail.com)
